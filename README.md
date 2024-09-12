@@ -11,5 +11,5 @@ This is a shopping cart application for an online plant shop developed as part o
 
 ## Project Links
 
-- **GitHub Repository:** [https://github.com/ioborin22/coursera-paradise-nursery-shopping-application](https://github.com/ioborin22/coursera-paradise-nursery-shopping-application)
+- **GitHub Repository:** [https://github.com/mateo751/Proyect_Final_Front-End_Apps_with_React.git](https://github.com/mateo751/Proyect_Final_Front-End_Apps_with_React.git)
 - **Live Site:** [https://ioborin22.github.io/coursera-paradise-nursery-shopping-application/](https://ioborin22.github.io/coursera-paradise-nursery-shopping-application/)
